@@ -33,6 +33,6 @@
 [<img align="left" alt="Cesar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Cesar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
+[twitter]: https://twitter.com/agent_czr
 [instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com//in/cesar-arias-4b4859270/
