@@ -19,7 +19,7 @@
   - [Creating groups and applying permissions ](https://github.com/cesarias/File_Shares)
   
 - <b> Testing Network Security Groups (NSG's and Inspecting Network Protocols) </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/cesarias/)
+  - [osTicket: Prerequisites and Installation](https://github.com/cesarias/Protocols)
   
 - <b> DNS exercises on our VM's </b>
   - [DNS/ A Record/ CNAME Record](https://github.com/cesarias/)
