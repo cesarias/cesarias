@@ -16,7 +16,7 @@
   - [Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
   
 - <b> Authorizing File Share Access to different groups and users in Active Directory. </b>
-  - [Creating groups and applying permissions ](https://github.com/cesarias/)
+  - [Creating groups and applying permissions ](https://github.com/cesarias/File_Shares)
   
 - <b> Testing Network Security Groups (NSG's and Inspecting Network Protocols) </b>
   - [osTicket: Prerequisites and Installation](https://github.com/cesarias/)
