@@ -34,11 +34,11 @@
 - <b> Few exercises done through Azure. Displaying DNS and the difference in between A-Record and CNAME Record using two VM's. </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
-- <b>Creating different groups within Active Directory and giving different levels of File Share access rights to the groups and users. </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- - <b>Creating different groups within Active Directory and giving different levels of File Share access rights to the groups and users. </b>
+- - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
   
 - <b>osTicket (Help Desk Ticketing System) installed on a VM created on Azure</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
