@@ -1,4 +1,4 @@
-<h1> Hello everybody, I'm Cesar, just here to showcase a few of my projects and passion for Cyber Security! <br/><a href="https://github.com/cesarias">Programmer</a>, <a href="https://www.linkedin.com/in/cesar-arias-4b4859270/">Cybersecurity Professional</a>
+<h1> Hello everybody, I'm Cesar, just here to showcase a few of my projects and passion for Cyber Security! <br/><a href="https://github.com/cesarias">Azure Associate </a>, <a href="https://www.linkedin.com/in/cesar-arias-4b4859270/">Cybersecurity Professional</a>
 
 
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security/IT Projects 👨🏻‍💻 🌎 🔐 </h2>
@@ -13,9 +13,9 @@
 
 <h2> 📲 with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | Twitter" width="22px" src="" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://www.linkedin.com/in/cesar-arias-4b4859270/ />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="" />][instagram]
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
