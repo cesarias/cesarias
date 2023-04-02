@@ -1,12 +1,12 @@
 <h1>Hello everybody! My name is Cesar, just here to showcase a few of my projects!  <br/><a href="https://github.com/cesarias">Programmer</a>, <a href="https://www.linkedin.com/in/cesar-arias-4b4859270/">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
 
-<h2>👨‍💻 Cyber Security/IT Projects:</h2>
+<h2>👨🏻‍💻 🔐 🌎 Security/IT Projects:👨🏻‍💻 🔐 🌎 <h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> Active Directory Lab where two VM's are deployed on Azure and Create Users through the Domain Controller VM.  </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b> Few exercises done through Azure. Displaying DNS and the difference in between A-Record and CNAME Record. </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+- <b></b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
