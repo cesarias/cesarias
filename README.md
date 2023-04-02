@@ -4,7 +4,7 @@
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security/IT Projects 👨🏻‍💻 🌎 🔐 </h2>
 
 - <b> Microsoft Sentinel (SIEM) / Honey Net </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/cesarias/os-ticket)
+  - [osTicket: Prerequisites and Installation](https://github.com/cesarias/Honey_Net)
   
 - <b> Logging and Monitoring in Azure </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cesarias/)
