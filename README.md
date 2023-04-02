@@ -14,18 +14,18 @@
 <b> Secure Cloud Configuration in Azure </b>
 
  
- - <b> Active Directory Lab where two VM's are deployed on Azure. Create Admin users and regular users through the Domain Controller VM.  </b>
+<b> Active Directory Lab where two VM's are deployed on Azure. Create Admin users and regular users through the Domain Controller VM.  </b>
  
- - <b> Few exercises done through Azure. Displaying DNS and the difference in between A-Record and CNAME Record using two VM's. </b>
- 
-  
- - <b> Creating different groups within Active Directory and giving different levels of File Share access rights to the groups and users. </b>
+<b> Few exercises done through Azure. Displaying DNS and the difference in between A-Record and CNAME Record using two VM's. </b>
  
   
-- <b> osTicket (Help Desk Ticketing System) installed on a VM created on Azure </b>
+<b> Creating different groups within Active Directory and giving different levels of File Share access rights to the groups and users. </b>
  
   
-- <b> Testing Network Security Groups(NSG's). Inspecting protocols in between a Window's VM and A linux(Ubuntu) VM both being created on Azure </b>
+<b> osTicket (Help Desk Ticketing System) installed on a VM created on Azure </b>
+ 
+  
+<b> Testing Network Security Groups(NSG's). Inspecting protocols in between a Window's VM and A linux(Ubuntu) VM both being created on Azure </b>
  
 
 <h2>📲 Connect with me:</h2>
