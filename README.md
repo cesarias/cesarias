@@ -13,7 +13,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/cesarias/Secure_Cloud)
   
 - <b> Configuring On-premises Active Directory within Azure VMs </b>
-  - [Creating regular users and Admins](https://github.com/cesarias/)
+  - [Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
   
 - <b> Authorizing File Share Access to different groups and users in Active Directory. </b>
   - [Creating groups and applying permissions ](https://github.com/cesarias/)
