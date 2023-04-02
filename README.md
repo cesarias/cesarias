@@ -35,4 +35,4 @@
 
 [twitter]: https://twitter.com/agent_czr
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com//in/cesar-arias-4b4859270/
+[linkedin]: https://linkedin.com//in/cesar-arias-czr/
