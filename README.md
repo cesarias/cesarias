@@ -1,6 +1,6 @@
-<h1>Hello everybody! My name is Cesar, just here to showcase a few of my projects!  <br/><a href="https://github.com/cesarias">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello everybody! My name is Cesar, just here to showcase a few of my projects!  <br/><a href="https://github.com/cesarias">Programmer</a>, <a href="https://www.linkedin.com/in/cesar-arias-4b4859270/">Cybersecurity Professional</a>, <a href="">YouTuber</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cyber Security/IT Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
