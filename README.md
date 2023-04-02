@@ -46,7 +46,7 @@
  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
   
 - <b> Testing Network Security Groups(NSG's). Inspecting protocols in between a Window's VM and A linux(Ubuntu) VM both being created on Azure </b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2>📲 Connect with me:</h2>
