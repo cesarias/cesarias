@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cesarias/Logging)
   
 - <b> Secure Cloud Configuration in Azure </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/cesarias/)
+  - [osTicket: Prerequisites and Installation](https://github.com/cesarias/Secure_Cloud)
   
 - <b> Configuring On-premises Active Directory within Azure VMs </b>
   - [Creating regular users and Admins](https://github.com/cesarias/)
