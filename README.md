@@ -22,7 +22,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/cesarias/Protocols)
   
 - <b> DNS exercises on our VM's </b>
-  - [DNS/ A Record/ CNAME Record](https://github.com/cesarias/)
+  - [DNS/ A Record/ CNAME Record](https://github.com/cesarias/DNS)
   
 - <b> osTicket (Help Desk Ticketing System) installed on VM through Azure </b>
   - [osTicket: Prerequisites and Installation](https://github.com/cesarias/os-ticket)
