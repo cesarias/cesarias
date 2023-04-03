@@ -13,19 +13,19 @@
   - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Secure_Cloud)
   
 - <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with a VM that will serve as Client-1 </b>
-  - [Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
+  - [N/A Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
   
 - <b> Authorizing File Share Access to different groups and users in Active Directory. </b>
   - [ N/A Creating groups and applying permissions ](https://github.com/cesarias/File_Shares)
   
 - <b> Performing activities within an Azure Network. Creating two separate VM's with Windows and Linux[Ubuntu].</b>
-  - [Azure NSG's (Network Security Groups) / WireShark (Network Analyzer) / various command line tools ](https://github.com/cesarias/Protocols)
+  - [N/A Azure NSG's (Network Security Groups) / WireShark (Network Analyzer) / various command line tools ](https://github.com/cesarias/Protocols)
   
 - <b> DNS exercises on our VM's </b>
-  - [DNS/ A Record/ CNAME Record](https://github.com/cesarias/DNS)
+  - [N/A DNS/ A Record/ CNAME Record](https://github.com/cesarias/DNS)
   
 - <b> osTicket (Help Desk Ticketing System) installed on VM through Azure </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/cesarias/os-ticket)
+  - [N/A osTicket: Prerequisites and Installation](https://github.com/cesarias/os-ticket)
   
 - <b>Creating a VM on Azure and giving it an IP address in Japan. Later use Proton VPN to connect it to servers in The Netherlands </b>
   - [Creating VM/ Installing Proton VPN on VM / Connect to a new VPN server in different Country](https://github.com/cesarias/VPN)
