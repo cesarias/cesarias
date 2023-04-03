@@ -12,7 +12,7 @@
 - <b> Secure Cloud Configuration in Azure </b>
   - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Secure_Cloud)
   
-- <b> Configuring On-premises Active Directory within Azure VMs </b>
+- <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with a VM that will serve as Client-1 </b>
   - [Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
   
 - <b> Authorizing File Share Access to different groups and users in Active Directory. </b>
@@ -26,6 +26,9 @@
   
 - <b> osTicket (Help Desk Ticketing System) installed on VM through Azure </b>
   - [osTicket: Prerequisites and Installation](https://github.com/cesarias/os-ticket)
+  
+- <b> Azure Compute and Networking. Creating two seperate VM's with Windows and Linux[Ubuntu].  </b>
+  - [Azure NSG / WireShark (protocol analyzer) / Various command line tools](https://github.com/cesarias/)
 
 <h2> 📲 connect with me:</h2>
   
