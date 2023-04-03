@@ -4,13 +4,13 @@
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security/IT Projects 👨🏻‍💻 🌎 🔐 </h2>
 
 - <b> Microsoft Sentinel (SIEM) / Honey Net </b>
-  - [ay ay ay ay ay bad bunny baby](https://github.com/cesarias/Honey_Net)
+  - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Honey_Net)
   
 - <b> Logging and Monitoring in Azure </b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cesarias/Logging)
+  - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Logging)
   
 - <b> Secure Cloud Configuration in Azure </b>
-  - [osTicket: Prerequisites and Installation](https://github.com/cesarias/Secure_Cloud)
+  - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Secure_Cloud)
   
 - <b> Configuring On-premises Active Directory within Azure VMs </b>
   - [Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
