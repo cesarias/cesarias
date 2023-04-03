@@ -27,7 +27,7 @@
 - <b> osTicket (Help Desk Ticketing System) installed on VM through Azure </b>
   - [osTicket: Prerequisites and Installation](https://github.com/cesarias/os-ticket)
   
-- <b> Azure Compute and Networking. Creating two seperate VM's with Windows and Linux[Ubuntu].  </b>
+- <b> Azure Compute and Networking. Creating two separate VM's with Windows and Linux[Ubuntu].  </b>
   - [Azure NSG / WireShark (protocol analyzer) / Various command line tools](https://github.com/cesarias/compute)
 
 <h2> 📲 connect with me:</h2>
