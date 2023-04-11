@@ -12,6 +12,9 @@
 - <b> Secure Cloud Configuration in Azure </b>
   - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Secure_Cloud)
   
+- <b> Azure Cloud Detection  </b>
+  - [ Deploying Azure Resources. Set up Data Connectors to Trigger Sentinal Alerts for Data Analysis ](https://github.com/cesarias/detect)
+  
 - <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with a VM that will serve as Client-1 </b>
   - [N/A Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
   
