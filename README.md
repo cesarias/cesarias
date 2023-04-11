@@ -6,8 +6,8 @@
 - <b> Microsoft Sentinel (SIEM) / Honey Net </b>
   - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Honey_Net)
   
-- <b> Logging and Monitoring in Azure </b>
-  - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Logging)
+- <b> Log Analytic workspaces in Sentinel </b>
+  - [Running different queries (KQL) in in Sentinel's Log Analytics Workspaces to research our data.  ](https://github.com/cesarias/Logging)
   
 - <b> Secure Cloud Configuration in Azure </b>
   - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Secure_Cloud)
