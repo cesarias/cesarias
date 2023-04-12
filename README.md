@@ -28,7 +28,7 @@
   - [N/A DNS/ A Record/ CNAME Record](https://github.com/cesarias/DNS)
   
 - <b> osTicket (Help Desk Ticketing System) installed on VM through Azure </b>
-  - [N/A osTicket: Prerequisites and Installation](https://github.com/cesarias/os-ticket)
+  - [ osTicket Installation](https://github.com/cesarias/os-ticket)
   
 - <b>Creating a VM on Azure and giving it an IP address in Japan. Later use Proton VPN to connect it to servers in The Netherlands </b>
   - [Creating VM/ Installing Proton VPN on VM / Connect to a new VPN server in different Country](https://github.com/cesarias/VPN)
