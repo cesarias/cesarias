@@ -6,10 +6,10 @@
 - <b> Microsoft Sentinel (SIEM) / Honey Net </b>
   - [We create a vulnerable/weak network within Azure on purpose to attract hackers and generate live traffic to analyze the data. With the data we make live attack maps.](https://github.com/cesarias/Honey_Net)
   
-- <b> Log Analytic workspaces in Sentinel </b>
+- <b> Log Analytic workspaces in Sentinel (Honey Net) </b>
   - [ Continuing with the HoneyNet lab: Running different queries (KQL) in in Sentinel's Log Analytics Workspaces to research our data.  ](https://github.com/cesarias/Logging)
   
-- <b> Secure Cloud Configuration in Azure </b>
+- <b> Secure Cloud Configuration in Azure (Honey Net)  </b>
   - [Currently enrolled in Cyber Security Course Will upload when finished](https://github.com/cesarias/Secure_Cloud)
   
 - <b> Azure Cloud Detection  </b>
