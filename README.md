@@ -18,9 +18,6 @@
 - <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with another VM that will serve as Client-1 </b>
   - [ Creating users and Admins within Active Directory ](https://github.com/cesarias/Active_Directory)
   
-- <b> Authorizing File Share Access to different groups and users in Active Directory. </b>
-  - [ Creating groups and applying permissions ](https://github.com/cesarias/File_Shares)
-  
 - <b> Performing activities within an Azure Network. Creating two separate VM's with Windows and Linux[Ubuntu].</b>
   - [ Azure NSG's (Network Security Groups) / WireShark (Network Analyzer) / various command line tools ](https://github.com/cesarias/Protocols)
   
