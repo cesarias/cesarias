@@ -18,12 +18,6 @@
 - <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with another VM that will serve as Client-1 </b>
   - [ Creating users and Admins within Active Directory ](https://github.com/cesarias/Active_Directory)
   
-- <b> Performing activities within an Azure Network. Creating two separate VM's with Windows and Linux[Ubuntu].</b>
-  - [ Azure NSG's (Network Security Groups) / WireShark (Network Analyzer) / various command line tools ](https://github.com/cesarias/Protocols)
-  
-- <b> DNS exercises on our VM's </b>
-  - [ DNS/ A Record/ CNAME Record](https://github.com/cesarias/DNS)
-  
 - <b> osTicket (Help Desk Ticketing System) installed on VM through Azure </b>
   - [ osTicket Installation](https://github.com/cesarias/os-ticket)
   
