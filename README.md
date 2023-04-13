@@ -15,7 +15,7 @@
 - <b> Azure Cloud Detection  </b>
   - [ Deploying Azure Resources. Set up Data Connectors to Trigger Sentinal Alerts for Data Analysis ](https://github.com/cesarias/detect)
   
-- <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with a VM that will serve as Client-1 </b>
+- <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with another VM that will serve as Client-1 </b>
   - [N/A Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
   
 - <b> Authorizing File Share Access to different groups and users in Active Directory. </b>
