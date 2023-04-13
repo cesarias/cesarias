@@ -16,7 +16,7 @@
   - [ Deploying Azure Resources. Set up Data Connectors to Trigger Sentinal Alerts for Data Analysis ](https://github.com/cesarias/detect)
   
 - <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with another VM that will serve as Client-1 </b>
-  - [ Creating regular users and Admins](https://github.com/cesarias/Active_Directory)
+  - [ Creating users and Admins within Active Directory ](https://github.com/cesarias/Active_Directory)
   
 - <b> Authorizing File Share Access to different groups and users in Active Directory. </b>
   - [ Creating groups and applying permissions ](https://github.com/cesarias/File_Shares)
