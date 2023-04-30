@@ -3,19 +3,19 @@
 
 <h2>👨🏻‍💻 🌎 🔐 Cyber Security/IT Projects 👨🏻‍💻 🌎 🔐 </h2>
 
-- <b> Microsoft Sentinel (SIEM) / Honey Net </b>
+- <b>🍯 🐝 Microsoft Sentinel (SIEM) / Honey Net 🍯 🐝 </b>
   - [Creating a vulnerable/weak network within Azure on purpose to attract hackers and generate live traffic to analyze the data. With the data we make live attack maps.](https://github.com/cesarias/Honey_Net)
   
-- <b> Log Analytic workspaces in Sentinel (Honey Net) </b>
+- <b>🍯 🐝 Log Analytic workspaces in Sentinel (Honey Net)🍯 🐝 </b>
   - [ Continuing with the HoneyNet lab: Running different queries (KQL) in in Sentinel's Log Analytics Workspaces to research our data.  ](https://github.com/cesarias/Logging)
   
-- <b> Secure Cloud Configuration in Azure (Honey Net)  </b>
+- <b>🍯 🐝 Secure Cloud Configuration in Azure (Honey Net)🍯 🐝 </b>
   - [This is a before and after look at the honeynet after 24 hours of hardening the enviroment](https://github.com/cesarias/Secure_Cloud)
   
-- <b> Azure Cloud Detection  </b>
+- <b> 🔍 Azure Cloud Detection 🔎  </b>
   - [ Deploying Azure Resources. Set up Data Connectors to Trigger Sentinal Alerts for Data Analysis ](https://github.com/cesarias/detect)
   
-- <b> Azure Firewall  </b>
+- <b> 🧱🧱🧱 Azure Firewall 🧱🧱🧱  </b>
   - [ Building a firewall for a virtual network in Azure and testing the set rules for it. ](https://github.com/cesarias/firewall)
   
 - <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with another VM that will serve as Client-1 </b>
