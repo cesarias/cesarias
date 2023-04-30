@@ -15,7 +15,7 @@
 - <b> Azure Cloud Detection  </b>
   - [ Deploying Azure Resources. Set up Data Connectors to Trigger Sentinal Alerts for Data Analysis ](https://github.com/cesarias/detect)
   
-  - <b> Azure Firewall  </b>
+- <b> Azure Firewall  </b>
   - [ Building a firewall for a virtual network in Azure and testing the set rules for it. ](https://github.com/cesarias/firewall)
   
 - <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with another VM that will serve as Client-1 </b>
