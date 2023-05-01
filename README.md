@@ -18,6 +18,10 @@
 - <b> 🧱🧱🧱 Azure Firewall 🧱🧱🧱  </b>
   - [ Building a firewall for a virtual network in Azure and testing the set rules for it. ](https://github.com/cesarias/firewall)
   
+- <b> 🛡️ Azure DDOS Protection 🛡️  </b>
+  - [ DDOS protection on Azure Virtual Network. ](https://github.com/cesarias/ddos)
+  
+  
 - <b> Deploying Active Directory within Azure. Creating a Domain Controller VM along with another VM that will serve as Client-1 </b>
   - [ Creating users and Admins within Active Directory ](https://github.com/cesarias/Active_Directory)
   
